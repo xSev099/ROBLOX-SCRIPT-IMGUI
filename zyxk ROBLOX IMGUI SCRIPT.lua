@@ -6,7 +6,8 @@ local Player = Players.LocalPlayer
 local Mouse = Player:GetMouse()
 local credentials = {
     admin = "admin123",
-    test = "testpass"
+    member = "user666",
+    sire = "sireempire"
 }
 local Theme = {
     Background = Color3.fromRGB(20, 20, 20),
